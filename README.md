@@ -6,6 +6,5 @@ https://progate.com/lessons/html/study/1
 Changing for the first time!
 
 ## Local development
-
 Branched changes
 1.Open index.html in your browser
