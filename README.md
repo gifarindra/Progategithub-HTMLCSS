@@ -7,4 +7,4 @@ Changing for the first time!
 
 ## Local development
 Branched changes
-1.Open index.html in your browser
+1.Open index.html in your browser!
